@@ -32,6 +32,16 @@ The output JSON file contains the relative recipes, with data managed in this wa
     "acquisition time": timestamp in which the information was retrieved
     "link": URL of the web page containing the recipe information
 
+# Installation
+
+The python libraries, required for the execution of the code, are present in the "requirement.txt" file
+
+# Authors and acknowledgment
+
+- code author : https://github.com/EdordoPng
+
+
+# Italian version
 
 ## Note esplicative
 Questo progetto fa uso di queste distinzioni per rendere più chiara la tetodologia di approccio :  
@@ -64,13 +74,3 @@ Il file JSON in output, contiene le relative ricette, con dati gestiti in questo
     "details" : stringa contenente un insieme di informazioni utili
     "acquisition time": timestamp in cui le informazioni sono state reperite
     "link": URL della pagina web in cui sono presenti le informazioni delle ricetta
-    
-
-# Installation
-
-Le libreie python, richieste per l'eseuzione del codice, sono presenti all'interno del file "requirement.txt" 
-
-
-# Authors and acknowledgment
-
-- code author : https://github.com/EdordoPng
